@@ -75,6 +75,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Shaik Razak**
+**Santosh Kumar**
 
 Computer Science Student | Web Developer | Machine Learning Enthusiast
