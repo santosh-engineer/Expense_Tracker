@@ -47,7 +47,7 @@ Expense-Tracker
 Clone the repository:
 
 ```
-git clone https://github.com/Shaik-Razak872/Expense-Tracker.git
+git clone https://github.com/santosh-engineer/Expense-Tracker.git
 ```
 
 Install dependencies:
